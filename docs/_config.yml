@@ -1,0 +1,16 @@
+---
+title: firefly
+description: 个人博客 — Firefly
+baseurl: "/lovefirefly"
+url: "https://woxiaozhou.github.io"
+lang: "zh-CN"
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title.html
+
+# optional: show full posts on index
+paginate: 5
+
+# exclude from pages
+exclude:
+  - README.md
+---
